@@ -1,2 +1,2 @@
 # Learning
-Will upload codes for Java as and when done
+This is just somethings I try and experimental(for me) technologies or codes. 
